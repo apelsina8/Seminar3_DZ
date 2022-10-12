@@ -26,3 +26,5 @@ _код_
 
 изменение в github 2.0
 
+изменения для pull request
+изменения для pull request
